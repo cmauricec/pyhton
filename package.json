@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "expres": "^0.0.5",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "level": "^6.0.1",
+    "morgan": "^1.10.0",
+    "pack": "^2.2.0",
+    "pug": "^3.0.2",
+    "sqlite3": "^5.0.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "Game_difficulty": "Low",
+    "Character_name": "Bob",
+    "Volume": 45,
+    "Texture": "Meduim",
+    "Graphics": "Meduim",
+    "Objective_Pop-up": true,
+    "Scalable_Enemies": false
+}

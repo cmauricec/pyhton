@@ -1,0 +1,9 @@
+{
+    "Game_difficulty": "Hard",
+    "Character_name": "Vert",
+    "Volume": 45,
+    "Texture": "Meduim",
+    "Graphics": "Meduim",
+    "Objective_Pop-up": true,
+    "Scalable_Enemies": true
+}
